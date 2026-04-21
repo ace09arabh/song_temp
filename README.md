@@ -20,8 +20,8 @@ This project allows users to view songs and play audio directly in the browser.
 
 ## 🛠️ Technologies Used
 
-- HTML5  
-- CSS3  
+- HTML
+- CSS
 
 ---
 
