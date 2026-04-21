@@ -53,13 +53,6 @@ This project was created to practice:
 
 ---
 
-## 👨‍💻 Author
-
-**Arabh Srivastav**  
-🎓 BCS Student  
-
----
-
 ## 📂 Project Structure
 
 song_temp/
@@ -104,4 +97,11 @@ song_temp/
 ## ⭐ Feedback
 
 If you like this project, give it a ⭐ on GitHub!
+
+---
+
+## 👨‍💻 Author
+
+**Arabh Srivastav**  
+🎓 BCS Student  
 
