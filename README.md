@@ -72,18 +72,31 @@ If you like this project, give it a ⭐ on GitHub!
 ## 📂 Project Structure
 
 song_temp/
+
 │── index.html
+
 │── a1.html
+
 │── a2.html
+
 │── a3.html
+
 │── rckNrnds.html
+
 │── sidhu.html
+
 │── rackNrounds.mp3
+
 │── sm.jpeg
+
 │── sm2.jpeg
+
 │── sm3.jpeg
+
 │── co.jpeg
+
 │── README.md
+
 
 
 
