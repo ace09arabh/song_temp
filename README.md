@@ -97,6 +97,14 @@ song_temp/
 
 │── README.md
 
+## 📸 Screenshots
 
+### 🏠 Home Page
+![Home Page](home.jpeg)
 
+### 📝 Song List
+![Song List Page](list.jpeg)
+
+### 🎵 Song Player
+![Song Player](player.jpeg)
 
