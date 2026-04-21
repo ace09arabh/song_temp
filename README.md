@@ -6,6 +6,8 @@ This project allows users to view songs and play audio directly in the browser.
 ## 🌐 Live Demo
 👉 https://ace09arabh.github.io/song_temp/
 
+---
+
 ## 📌 Features
 
 - 🎧 Play songs using embedded audio player  
@@ -14,25 +16,16 @@ This project allows users to view songs and play audio directly in the browser.
 - 🧭 Simple navigation between pages  
 - ⚡ Fast and lightweight  
 
+---
+
 ## 🛠️ Technologies Used
 
 - HTML5  
-- CSS3
+- CSS3  
 
-song_temp/
-│── index.html
-│── a1.html
-│── a2.html
-│── a3.html
-│── rckNrnds.html
-│── sidhu.html
-│── rackNrounds.mp3
-│── sm.jpeg
-│── sm2.jpeg
-│── sm3.jpeg
-│── co.jpeg
-│── README.md
+---
 
+## 📂 Project Structure
 
 ---
 
@@ -77,4 +70,20 @@ If you like this project, give it a ⭐ on GitHub!
 
 
 ## 📂 Project Structure
+
+song_temp/
+│── index.html
+│── a1.html
+│── a2.html
+│── a3.html
+│── rckNrnds.html
+│── sidhu.html
+│── rackNrounds.mp3
+│── sm.jpeg
+│── sm2.jpeg
+│── sm3.jpeg
+│── co.jpeg
+│── README.md
+
+
 
