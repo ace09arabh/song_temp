@@ -60,11 +60,6 @@ This project was created to practice:
 
 ---
 
-## ⭐ Feedback
-
-If you like this project, give it a ⭐ on GitHub!
-
-
 ## 📂 Project Structure
 
 song_temp/
@@ -103,4 +98,10 @@ song_temp/
 
 ### 🎵 Song Player
 ![Song Player](player.jpeg)
+
+---
+
+## ⭐ Feedback
+
+If you like this project, give it a ⭐ on GitHub!
 
