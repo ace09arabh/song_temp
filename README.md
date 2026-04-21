@@ -25,10 +25,6 @@ This project allows users to view songs and play audio directly in the browser.
 
 ---
 
-## 📂 Project Structure
-
----
-
 ## 🚀 How to Run Locally
 
 1. Download or clone the repository  
