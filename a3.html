@@ -14,13 +14,15 @@
       x--;
       if(x<1)
       x=4
+      document.getElementById("d").src="co"+x+"jpeg"
     }
     function next(){
       x++;
       if(x>4)
       x=1
+      document.getElementById("d").src="co"+x+"jpeg"
     }
-    setInterval(a,2000)
+    setInterval(a,4000)
   </script>
 <img id="d" src="" style="height:465;width:1065">
 <center>
