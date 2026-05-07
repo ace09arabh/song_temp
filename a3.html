@@ -10,7 +10,23 @@
       x=0
       x++;
     }
+    function prev(){
+      x--;
+      if(x==4)
+      x=0
+    }
+    function next(){
+      x++;
+      if(x==4)
+      x=0
+    }
     setInterval(a,2000)
   </script>
 <img id="d" src="" style="height:465;width:1065">
-  </body>
+<center>
+<button onclick="prev()">&lt;</button>
+<font color=#1DB954>Pages</font>
+  <button onclick="next()">&gt;</button>
+</center>
+</body>
+
