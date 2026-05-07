@@ -1,6 +1,16 @@
-<body bgcolor="black">
+<body bgcolor="black" onload="a()">
 <img src="sp.jpeg"style="position:absolute;top:0px;height:100px;width:110px;border-radius:50px;margin:5px">
 <font color=#1DB954><center><h1>Welcome To Online Song Store</h1>
 <h1>Spotify</h1></center></font>
-<img src="co.jpeg"style="height:465;width:1065">
-</body>
+  <Script>
+    var x=1
+    function a(){
+      document.getElementById("d").src="co"+x+".jpeg"
+      if(x==5)
+      x=0
+      x++;
+    }
+    setInterval(a,1000)
+  </script>
+<img id="d" src="" style="height:465;width:1065">
+  </body>
