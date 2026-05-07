@@ -6,27 +6,27 @@
     var x=1
     function a(){
       document.getElementById("d").src="co"+x+".jpeg"
-      if(x==4)
-      x=0
+      if(x>4)
+      x=1
       x++;
     }
     function prev(){
       x--;
-      if(x==4)
-      x=0
+      if(x<1)
+      x=4
     }
     function next(){
       x++;
-      if(x==4)
-      x=0
+      if(x>4)
+      x=1
     }
     setInterval(a,2000)
   </script>
 <img id="d" src="" style="height:465;width:1065">
 <center>
-<button onclick="prev()">&lt;</button>
+<button onclick="prev()">&lt;&lt;</button>
 <font color=#1DB954>Pages</font>
-  <button onclick="next()">&gt;</button>
+  <button onclick="next()">&gt;&gt;</button>
 </center>
 </body>
 
