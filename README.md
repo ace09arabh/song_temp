@@ -55,31 +55,31 @@ This project was created to practice:
 
 ## 📂 Project Structure
 
+```text
 song_temp/
-
-│── index.html
-
-│── a1.html
-
-│── a2.html
-
-│── a3.html
-
-│── rckNrnds.html
-
-│── sidhu.html
-
-│── rackNrounds.mp3
-
-│── sm.jpeg
-
-│── sm2.jpeg
-
-│── sm3.jpeg
-
-│── co.jpeg
-
-│── README.md
+├── index.html
+├── 0to100.html
+├── 295.html
+├── calaboose.html
+├── dawood.html
+├── devil.html
+├── everybodyhurts.html
+├── game.html
+├── lovesick.html
+├── meandmygf.html
+├── sidhu.html
+├── rckNrnds.html
+├── sm.jpeg
+├── sm2.jpeg
+├── sm3.jpeg
+├── sm4.jpeg
+├── sm5.jpeg
+├── sp.jpeg
+├── home.jpeg
+├── list.jpeg
+├── player.jpeg
+└── Song and media files
+```
 
 ## 📸 Screenshots
 
@@ -99,6 +99,9 @@ song_temp/
 If you like this project, give it a ⭐ on GitHub!
 
 ---
+
+## 📄 License
+This project is intended for educational purposes.
 
 ## 👨‍💻 Author
 
