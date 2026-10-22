@@ -98,9 +98,8 @@ song_temp/
 
 If you like this project, give it a ⭐ on GitHub!
 
----
-
 ## 📄 License
+
 This project is intended for educational purposes.
 
 ## 👨‍💻 Author
